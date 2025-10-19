@@ -42,6 +42,9 @@ public class HtmlRead {
                     }
                 }}
 
+
+
+
                 reader.close();
             } catch(Exception ex){
                 System.out.println(ex);
